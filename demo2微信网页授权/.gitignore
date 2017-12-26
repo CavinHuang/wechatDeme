@@ -1,0 +1,20 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+log
+pids
+yarn-error.log
+# Nuxt build
+.nuxt
+.svn
+.idea
+# Nuxt generate
+dist
+
+# Bulid
+build
+
+#wx
+./wx
